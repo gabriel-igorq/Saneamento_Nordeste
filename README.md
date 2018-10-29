@@ -4,11 +4,11 @@
 
 O Instituto Brasileiro de Geografia e Estatística(IBGE) disponibiliza em seu site diversos dados relativos ao Brasil. Nesse projeto nós acessamos dados referentes ao percentual de esgotamento sanitário de cada um dos estados do Nordeste no ano de 2010 para gerar mapas temáticos usando o choropleth e analisar se existem grandes diferenças entre os estados dessa mesma região. 
 
-E além disso, se utilizar de reportagens para que se estude a evolução do saneamento básico no Brasil em relação aos dados utilizados para o notebook.
+E além disso, se utilizar de reportagens para que se estude a evolução do saneamento básico no Brasil em relação aos dados utilizados para o notebook <a href="http://jupyter.org/">Jupyter</a>.
 
 ## Tecnologias utilizadas
 
-O projeto foi desenvolvido como trabalho para a componente IMD0905 - Ciência de Dados I, o notebook é desevolvido utilizando a linguagem de programação Python 3 e as bibliotecas Pandas, NumPy, Folium, entre outras.
+O projeto foi desenvolvido como trabalho para a componente IMD0905 - Ciência de Dados I, o notebook Jupyter é desevolvido utilizando a linguagem de programação Python 3, com a ferramenta <a href="https://colab.research.google.com/notebooks/welcome.ipynb"> Google Colab</a> e as bibliotecas Pandas, NumPy, Folium, entre outras.
 
 ### Autores:
 
